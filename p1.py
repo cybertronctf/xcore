@@ -1,1 +1,0 @@
-print("xcore FIX2")
